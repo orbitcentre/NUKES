@@ -1542,7 +1542,7 @@ def bots():
 	bots.append("http://www.facebook.com/sharer/sharer.php?u=")
 	bots.append("http://downforeveryoneorjustme.com/")
 	bots.append("http://network-tools.com/default.asp?prog=ping&host=")
-	bots.append("http://network-tools.com/default.asp?prog=trace&host=")uri=")
+	bots.append("http://network-tools.com/default.asp?prog=trace&host=")
 	bots.append("http://www.facebook.com/sharer/sharer.php?u=")
 	bots.append("http://downforeveryoneorjustme.com/")
 	bots.append("http://network-tools.com/default.asp?prog=ping&host=")
@@ -1553,7 +1553,4 @@ def bots():
 	bots.append("http://downforeveryoneorjustme.com/")
 	bots.append("http://network-tools.com/default.asp?prog=ping&host=")
 	bots.append("http://network-tools.com/default.asp?prog=trace&host=")
-	bots.append("http://network-tools.com/default.asp?prog=network&host=")
-	bots.append("http://validator.w3.org/check?uri=")
-	bots.append("http://www.facebook.com/sharer/sharer.php?u=")
-	bots.append("http://downforevery
+
